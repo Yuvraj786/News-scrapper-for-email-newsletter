@@ -40,10 +40,3 @@ BloombergQuint: <https://www.bloombergquint.com>
 >Sometimes the mail received may be on the junk folder. Please have a look on it.
 
 >As of now mails can be sent only from Gmail.
-
-# About & Contact
-Created by: Andrew George Issac
-
-Instagram: <https://www.instagram.com/_andrewissac>
-
-Twitter: <https://twitter.com/andrewgeorge002>
